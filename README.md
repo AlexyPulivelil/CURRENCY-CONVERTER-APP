@@ -1,4 +1,4 @@
-# shorten
+# CURRENCY CONVERTER APP
 
 A new Flutter project.
 
